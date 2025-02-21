@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1739403220
-ModificationTime: 1740106318
+ModificationTime: 1740107685
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -63,7 +63,7 @@ ChainSub2: class "start_char calt" 2 2 1 1
 EndFPST
 ChainSub2: class "end_char calt" 2 1 2 1
   Class: 7 uni0928
-  FClass: 23 uni0020 uni0964 uni0965
+  FClass: 31 uni0020 uni000A uni0964 uni0965
  1 0 1
   ClsList: 1
   BClsList:
